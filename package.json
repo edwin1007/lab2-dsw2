@@ -1,0 +1,25 @@
+{
+  "name": "lab-2-dsw2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwin1007/lab-2-DSW2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwin1007/lab-2-DSW2/issues"
+  },
+  "homepage": "https://github.com/edwin1007/lab-2-DSW2#readme",
+  "dependencies": {
+    "apollo-server-express": "^3.12.0",
+    "express": "^4.18.2",
+    "graphql": "^16.6.0"
+  }
+}
